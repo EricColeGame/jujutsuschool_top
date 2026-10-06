@@ -24,13 +24,13 @@ export const siteConfig: SiteConfig = {
   logoText: "JSA",
   tagline: "Anomaly Guides, Walkthroughs, Endings & Tips",
   description: "Fan-made Jujutsu School Anomaly wiki for Roblox. Survive the night shift by inspecting visitors, checking IDs, stamping permits and detecting anomalies.",
-  url: process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top").hostname.replace(/^www\./, "")}`,
+  url: process.env.NEXT_PUBLIC_SITE_URL || "https://jujutsuschool.top",
+  supportEmail: "support@jujutsuschool.top",
   gameUrl: "https://www.roblox.com/games/120468139832999/Jujutsu-School",
   heroVideoId: "qj5QLgvTJUM", // Jujutsu School Anomaly full gameplay walkthrough
   social: {
-    discord: "https://discord.gg/roblox",
-    youtube: "https://www.youtube.com/@roblox",
+    discord: "https://www.roblox.com/games/120468139832999/Jujutsu-School",
+    youtube: "https://www.youtube.com/watch?v=qj5QLgvTJUM",
   },
   locales: ["en", "es", "pt", "de", "fr"],
   defaultLocale: "en",
