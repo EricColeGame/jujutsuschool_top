@@ -9,7 +9,13 @@
   "nav": {
     "home": "Home",
     "menu": "Menu",
-    "toggleTheme": "Toggle theme"
+    "toggleTheme": "Toggle theme",
+    "guide": "Guide",
+    "mechanics": "Mechanics",
+    "progression": "Progression",
+    "characters": "Characters",
+    "tips": "Tips",
+    "game": "Game"
   },
   "home": {
     "meta": {
@@ -427,7 +433,30 @@
       "secondary": "Play on Roblox"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "Jujutsu School Anomaly Guides & Walkthroughs",
+    "overviewDescription": "Step-by-step jujutsu school anomaly guides covering the full loop, every ending, the true ending, and inspection procedures for new players."
+  },
+  "mechanics": {
+    "overviewTitle": "Jujutsu School Anomaly Mechanics",
+    "overviewDescription": "Understand jujutsu school anomaly detection rules: spotting anomalies, checking IDs, shift behavior, and how to stop anomalies before they reset your run."
+  },
+  "progression": {
+    "overviewTitle": "Jujutsu School Anomaly Progression",
+    "overviewDescription": "Track your jujutsu school anomaly progression from Shift 1 to the final boss, with shift-by-shift milestones and the endgame showdown."
+  },
+  "characters": {
+    "overviewTitle": "Jujutsu School Anomaly Characters",
+    "overviewDescription": "Meet the jujutsu school anomaly cast, including students, teachers, Panda, and Yuji, and see how each one fits into the night-shift loop."
+  },
+  "tips": {
+    "overviewTitle": "Jujutsu School Anomaly Tips & Tricks",
+    "overviewDescription": "Practical jujutsu school anomaly tips, a beginner guide, survival advice, anomaly lists, and the fastest ways to fail or recover."
+  },
+  "game": {
+    "overviewTitle": "Jujutsu School Anomaly Game Info",
+    "overviewDescription": "Jujutsu school anomaly game details, including the Roblox release, horror gameplay, updates, and limited-time events."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
@@ -458,9 +487,9 @@
     "officialYoutube": "Gameplay Trailer",
     "vvBuilder": "Anomaly Checklist",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Race Guides",
-    "bossGuides": "Boss Guides",
-    "buildGuide": "Build Guide",
+    "raceGuides": "Characters",
+    "bossGuides": "Progression",
+    "buildGuide": "Mechanics",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
   }
