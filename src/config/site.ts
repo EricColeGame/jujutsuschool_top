@@ -19,15 +19,15 @@ export interface SiteConfig {
 }
 
 export const siteConfig: SiteConfig = {
-  name: "My Seafood Stand Wiki",
-  shortName: "My Seafood Stand",
-  logoText: "SS",
-  tagline: "Complete Guides, Codes, Recipes & Tier Lists",
-  description: "Your ultimate guide to My Seafood Stand on Roblox! Explore active working codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
+  name: "Jujutsu School Anomaly Wiki",
+  shortName: "Jujutsu School Anomaly",
+  logoText: "JSA",
+  tagline: "Anomaly Guides, Walkthroughs, Endings & Tips",
+  description: "Fan-made Jujutsu School Anomaly wiki for Roblox. Survive the night shift by inspecting visitors, checking IDs, stamping permits and detecting anomalies.",
   url: process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top",
   supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top").hostname.replace(/^www\./, "")}`,
-  gameUrl: "https://www.roblox.com/games/my-seafood-stand",
-  heroVideoId: "M8DvcwoFRrk", // Roblox My Seafood Stand codes & gameplay video
+  gameUrl: "https://www.roblox.com/games/120468139832999/Jujutsu-School",
+  heroVideoId: "qj5QLgvTJUM", // Jujutsu School Anomaly full gameplay walkthrough
   social: {
     discord: "https://discord.gg/roblox",
     youtube: "https://www.youtube.com/@roblox",
