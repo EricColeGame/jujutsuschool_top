@@ -1,1 +1,496 @@
-{}
+{
+  "site": {
+    "name": "Jujutsu School Anomaly Wiki",
+    "shortName": "Jujutsu School Anomaly",
+    "tagline": "Guias de anomalias, passo a passo, finais e dicas",
+    "description": "Wiki de fãs de Jujutsu School Anomaly para Roblox. Sobreviva ao turno da noite inspecionando visitantes, conferindo identidades, carimbando permissões e detectando anomalias.",
+    "legalNotice": "Wiki de fãs não oficial. Feita por jogadores, para jogadores. Não é afiliada à Centurion Kitchen nem à Roblox."
+  },
+  "nav": {
+    "home": "Início",
+    "menu": "Menu",
+    "toggleTheme": "Alternar tema",
+    "guide": "Guia",
+    "mechanics": "Mecânicas",
+    "progression": "Progressão",
+    "characters": "Personagens",
+    "tips": "Dicas",
+    "game": "Jogo"
+  },
+  "home": {
+    "meta": {
+      "title": "Jujutsu School Anomaly Wiki - Guias, anomalias e códigos",
+      "description": "Encontre em um só lugar guias de Jujutsu School Anomaly, listas de anomalias, passo a passo, verificações de visitantes, finais, mecânicas, atualizações e dicas de Roblox."
+    },
+    "hero": {
+      "eyebrow": "Sobrevivência de inspeção e terror anime",
+      "title": "Jujutsu School Anomaly Wiki",
+      "description": "Sobreviva ao turno da noite na Jujutsu High inspecionando visitantes, conferindo identidades, carimbando permissões, controlando a barreira amaldiçoada e detectando anomalias perigosas antes que entrem.",
+      "stats": [
+        "2,94 mi+ de visitas totais",
+        "1.591 jogadores on-line",
+        "2.271 pico de CCU",
+        "24 jogadores no máx."
+      ],
+      "primaryCta": "Guia para iniciantes no Roblox",
+      "secondaryCta": "Lista de anomalias",
+      "tertiaryCta": "Jogar no Roblox",
+      "videoLabel": "Mídia oficial"
+    },
+    "updates": {
+      "title": "Últimas atualizações",
+      "browse": "Ver todos os guias",
+      "viewAll": "Ver tudo"
+    },
+    "start": {
+      "eyebrow": "Comece aqui",
+      "title": "Sua jornada em Jujutsu School Anomaly",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guia para iniciantes",
+          "description": "Aprenda o ciclo do turno da noite, as verificações de visitantes e o registro de anomalias antes de arriscar sua primeira partida de verdade."
+        },
+        {
+          "number": "2",
+          "title": "Detecção de anomalias",
+          "description": "Treine o olho para as distorções visuais, sonoras e espaciais que reiniciam a partida no instante em que você as perde."
+        },
+        {
+          "number": "3",
+          "title": "Chefe final",
+          "description": "Prepare os atributos, o equipamento e os contadores necessários para o confronto culminante no pátio."
+        },
+        {
+          "number": "4",
+          "title": "Códigos e recompensas",
+          "description": "Acompanhe cada código ativo, sua recompensa e os passos exatos de resgate assim que novos códigos saírem."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas populares",
+      "title": "Em alta",
+      "quickLinks": [
+        "Detecção de anomalias",
+        "Verificação de visitantes",
+        "Todos os finais",
+        "Chefe final"
+      ],
+      "cards": [
+        {
+          "badge": "Iniciante",
+          "title": "Guia para iniciantes",
+          "description": "Do seu primeiro corredor a um turno perfeito, as regras essenciais que todo inspetor novato precisa.",
+          "href": "/tips/jujutsu-school-anomaly-beginner-guide"
+        },
+        {
+          "badge": "Básico",
+          "title": "Detecção de anomalias",
+          "description": "Identifique anomalias arquitetônicas, sonoras, de iluminação e de entidades antes que reiniciem sua partida.",
+          "href": "/mechanics/jujutsu-school-anomaly-anomaly-detection"
+        },
+        {
+          "badge": "Básico",
+          "title": "Verificação de visitantes",
+          "description": "A verificação de identidade em cinco pontos que separa estudantes de verdade de sósias amaldiçoados.",
+          "href": "/mechanics/jujutsu-school-anomaly-checking-ids"
+        },
+        {
+          "badge": "Atualizado",
+          "title": "Todos os finais",
+          "description": "Todos os finais e seus gatilhos, da Detenção sem fim ao Final verdadeiro.",
+          "href": "/guide/jujutsu-school-anomaly-all-endings"
+        },
+        {
+          "badge": "Popular",
+          "title": "Guia do chefe final",
+          "description": "Táticas fase a fase, metas de atributos e builds para o último confronto.",
+          "href": "/progression/jujutsu-school-anomaly-final-boss"
+        },
+        {
+          "badge": "Novo",
+          "title": "Dicas de sobrevivência",
+          "description": "Hábitos testados pela comunidade que mantêm sua sequência viva nos turnos mais difíceis.",
+          "href": "/tips/jujutsu-school-anomaly-how-to-survive"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "O que é Jujutsu School Anomaly?",
+      "paragraphs": [
+        "Jujutsu School Anomaly é um jogo de terror e observação da Roblox desenvolvido pela Centurion Kitchen. Você assume o turno da noite em uma academia de feitiçaria amaldiçoada onde cada corredor pode esconder uma anomalia, e sua única arma é um olhar atento. Inspecione visitantes, confira identidades e permissões e decida se avança ou recua.",
+        "Cada setor limpo faz seu contador avançar, enquanto uma única distorção perdida ou um relatório falso reinicia a partida. As anomalias vão de objetos deslocados e retratos invertidos a corredores em loop e entidades hostis, e se intensificam ao longo de quatro fases de turno. Com vários finais, um Final verdadeiro oculto e um chefe final culminante, a academia recompensa paciência e precisão em vez de velocidade."
+      ],
+      "stats": [
+        {
+          "label": "Desenvolvedora",
+          "value": "Centurion Kitchen"
+        },
+        {
+          "label": "Plataforma",
+          "value": "Roblox"
+        },
+        {
+          "label": "Gênero",
+          "value": "Terror / Sobrevivência"
+        },
+        {
+          "label": "Visitas",
+          "value": "2.94M+"
+        },
+        {
+          "label": "Avaliação",
+          "value": "95.1%"
+        },
+        {
+          "label": "Pico de CCU",
+          "value": "2,271"
+        },
+        {
+          "label": "Jogadores no máx.",
+          "value": "24"
+        }
+      ],
+      "cta": "Explorar todos os guias"
+    },
+    "explore": {
+      "title": "Explore a Jujutsu School Anomaly Wiki",
+      "description": "Sobreviva a cada turno da noite com guias de detecção de anomalias, verificação de visitantes, passo a passo completo, finais e o chefe final.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Guia para iniciantes de Jujutsu School Anomaly",
+          "description": "Aprenda o ciclo do turno da noite do primeiro corredor a um turno perfeito, incluindo verificação de visitantes, conferência de identidade e como registrar anomalias sem reiniciar.",
+          "href": "/tips/jujutsu-school-anomaly-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Memorize o padrão do corredor limpo antes de julgar qualquer setor"
+            },
+            {
+              "label": "2",
+              "detail": "Vasculhe cada sala em busca de mudanças visuais, sonoras, de iluminação e espaciais"
+            },
+            {
+              "label": "3",
+              "detail": "Verifique primeiro o quadro de avisos, os armários de sapatos e os talismãs de proteção"
+            },
+            {
+              "label": "4",
+              "detail": "Siga em frente pela saída quando um setor estiver completamente normal"
+            },
+            {
+              "label": "5",
+              "detail": "Volte pela entrada no momento em que uma anomalia aparecer"
+            },
+            {
+              "label": "6",
+              "detail": "Evite falsos positivos relatando apenas mudanças que você consiga ver ou ouvir"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Anomalias de Jujutsu School Anomaly",
+          "description": "Uma análise por nível de ameaça das famílias de anomalias que você precisa identificar, de sutis mudanças de objetos a entidades hostis que podem acabar com a partida na hora.",
+          "href": "/mechanics/jujutsu-school-anomaly-anomalies",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Loop espacial: os corredores se repetem sem fim, então volte imediatamente e nunca entre em geometria distorcida"
+            },
+            {
+              "label": "A",
+              "detail": "Entidade manifestada: figuras de sombra e bonecos amaldiçoados que perseguem; quebre a linha de visão e recue"
+            },
+            {
+              "label": "B",
+              "detail": "Loop auditivo: cânticos invertidos, passos fantasma e silêncio repentino atrás de você"
+            },
+            {
+              "label": "C",
+              "detail": "Distorção de objetos: cadeiras deslocadas, retratos invertidos e placas de porta trocadas"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Passo a passo de Jujutsu School Anomaly",
+          "description": "Uma rota completa turno a turno pela academia amaldiçoada, cobrindo o que inspecionar em cada zona e quando avançar ou recuar.",
+          "href": "/guide/jujutsu-school-anomaly-walkthrough",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Comece no limiar da entrada e escaneie todo o corredor da esquerda para a direita"
+            },
+            {
+              "label": "2",
+              "detail": "Compare os armários de sapatos e o quadro de avisos com o padrão limpo"
+            },
+            {
+              "label": "3",
+              "detail": "Inspecione as janelas da sala de aula e a sala dos professores em busca de desvios sutis"
+            },
+            {
+              "label": "4",
+              "detail": "Volte pela entrada quando qualquer perturbação amaldiçoada aparecer"
+            },
+            {
+              "label": "5",
+              "detail": "Avance pela saída em setores limpos para aumentar seu contador"
+            },
+            {
+              "label": "6",
+              "detail": "Chegue à saída do santuário para encerrar o turno e guardar seu progresso"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Guia de visitantes de Jujutsu School Anomaly",
+          "description": "Domine a recepção com os cinco campos de identidade, os sinais de falsificação e as conferências de registro que separam estudantes de verdade de sósias amaldiçoados.",
+          "href": "/mechanics/jujutsu-school-anomaly-checking-ids",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Retrato",
+              "detail": "Fique atento a pupilas fendidas, dilatação irregular ou sombra ausente na foto"
+            },
+            {
+              "label": "Número de ID",
+              "detail": "Uma sequência alfanumérica de 8 caracteres deve começar com o prefixo de filial correto"
+            },
+            {
+              "label": "Selo de série",
+              "detail": "Um selo vermelho precisa de bordas limpas, pigmento uniforme e nenhum traço extra"
+            },
+            {
+              "label": "Holograma",
+              "detail": "Cartões genuínos brilham sob a luz do balcão; acabamento fosco indica falsificação"
+            },
+            {
+              "label": "Registro",
+              "detail": "Confira cada nome no livro de registro físico antes de permitir a entrada"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Finais de Jujutsu School Anomaly",
+          "description": "Desbloqueie todos os desfechos narrativos cumprindo suas condições exatas, do loop ruim padrão ao Final verdadeiro oculto.",
+          "href": "/guide/jujutsu-school-anomaly-endings",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Detenção",
+              "detail": "A Detenção sem fim: três relatórios falsos prendem você em um loop infinito de corredores"
+            },
+            {
+              "label": "Fuga",
+              "detail": "A Fuga às cegas: complete oito curvas corretas sem relíquias e fuja da escola"
+            },
+            {
+              "label": "Purificar",
+              "detail": "Protocolo de Purificação: purifique todas as anomalias padrão e estabilize a barreira"
+            },
+            {
+              "label": "Final verdadeiro",
+              "detail": "O Despertar do exorcista: encontre três talismãs ocultos sem nenhuma identificação errada"
+            },
+            {
+              "label": "Secreto",
+              "detail": "O Feiticeiro esquecido: acione o evento da sala de aula à meia-noite e inverta a rota"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Códigos de Jujutsu School Anomaly",
+          "description": "Acompanhe cada código ativo e sua recompensa, além dos passos exatos para resgatá-los antes que expirem.",
+          "href": "/guide",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "STATUS",
+              "detail": "Nenhum código ativo de Jujutsu School Anomaly foi lançado ainda"
+            },
+            {
+              "label": "ATUALIZAÇÕES",
+              "detail": "Novos códigos costumam chegar junto com atualizações do jogo e marcos da comunidade"
+            },
+            {
+              "label": "RESGATAR",
+              "detail": "Os passos de resgate serão listados aqui assim que os primeiros códigos saírem"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Jogabilidade de Jujutsu School Anomaly",
+          "description": "Entenda o ciclo principal antes de jogar: inspecione cada setor, interprete as anomalias, mantenha a barreira estável e sobreviva a turnos cada vez mais intensos.",
+          "href": "/game/jujutsu-school-anomaly-gameplay",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Ciclo",
+              "detail": "Avance em setores limpos e volte ao encontrar anomalias para mover seu contador"
+            },
+            {
+              "label": "Inspecionar",
+              "detail": "Memorize o padrão de cada sala e note qualquer desvio visual ou sonoro"
+            },
+            {
+              "label": "Barreira",
+              "detail": "Mantenha a barreira amaldiçoada estável para que as anomalias não invadam a academia"
+            },
+            {
+              "label": "Turnos",
+              "detail": "Sobreviva a turnos noturnos que escalam do Crepúsculo à Hora do cataclismo"
+            },
+            {
+              "label": "Cooperativo",
+              "detail": "As partidas aceitam até 24 jogadores, então você pode dividir corredores com amigos"
+            },
+            {
+              "label": "Finais",
+              "detail": "Persiga vários finais, de um loop ruim ao Final verdadeiro oculto"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Dicas de Jujutsu School Anomaly",
+          "description": "Hábitos práticos que aumentam sua sobrevivência, reduzem relatórios falsos e mantêm sua sequência nos turnos mais difíceis.",
+          "href": "/tips/jujutsu-school-anomaly-tips",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Padrão",
+              "detail": "Estude o layout padrão de cada sala antes de julgar anomalias"
+            },
+            {
+              "label": "Vá devagar",
+              "detail": "Apressar causa relatórios falsos; precisão vence velocidade em toda partida"
+            },
+            {
+              "label": "Áudio",
+              "detail": "Ouça cânticos invertidos, passos fantasma e silêncios repentinos"
+            },
+            {
+              "label": "Luz",
+              "detail": "Varra os cantos com a lanterna para revelar sombras invertidas"
+            },
+            {
+              "label": "Fadiga",
+              "detail": "Faça pausas, pois a fadiga de observação é a principal causa de anomalias não detectadas"
+            },
+            {
+              "label": "Verificar",
+              "detail": "Confira duas vezes uma anomalia suspeita antes de decidir voltar"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Perguntas frequentes",
+      "description": "Respostas rápidas para as perguntas mais comuns sobre Jujutsu School Anomaly.",
+      "items": [
+        {
+          "question": "O que é Jujutsu School Anomaly?",
+          "answer": "Jujutsu School Anomaly é um jogo de terror e observação da Roblox feito pela Centurion Kitchen. Você trabalha no turno da noite em uma academia amaldiçoada, inspecionando visitantes, conferindo identidades e decidindo se cada corredor está limpo ou corrompido antes que um único erro reinicie sua partida."
+        },
+        {
+          "question": "Como sei se um corredor tem uma anomalia em Jujutsu School Anomaly?",
+          "answer": "Memorize primeiro o padrão limpo e depois compare iluminação, quadros de avisos, armários e áudio com ele. Qualquer oscilação, talismã invertido ou cântico invertido significa que você deve voltar pela entrada."
+        },
+        {
+          "question": "Quantos finais Jujutsu School Anomaly tem?",
+          "answer": "Jujutsu School Anomaly tem vários finais, incluindo A Detenção sem fim, A Fuga às cegas, Protocolo de Purificação, O Despertar do exorcista (Final verdadeiro) e o final secreto O Feiticeiro esquecido."
+        },
+        {
+          "question": "Existem códigos ativos em Jujutsu School Anomaly?",
+          "answer": "Nenhum código ativo confirmado de Jujutsu School Anomaly foi lançado ainda. Quando os códigos saírem, esta wiki listará as recompensas e os passos exatos de resgate."
+        },
+        {
+          "question": "Como sobrevivo aos turnos mais avançados de Jujutsu School Anomaly?",
+          "answer": "Os turnos avançados geram anomalias mais rápido e adicionam ameaças compostas. Diminua o ritmo da varredura, verifique duas vezes as mudanças suspeitas e nunca corra ao recuar de uma entidade manifestada."
+        },
+        {
+          "question": "Jujutsu School Anomaly tem suporte a cooperativo?",
+          "answer": "Sim. As partidas de Jujutsu School Anomaly aceitam até 24 jogadores, então você pode dividir corredores com amigos e conferir os relatórios uns dos outros."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Pronto para dominar Jujutsu School Anomaly?",
+      "description": "Do primeiro turno da noite a cada final oculto, nossa wiki da comunidade cobre você com guias de Roblox gratuitos e atualizados.",
+      "primary": "Ler o guia para iniciantes",
+      "secondary": "Jogar no Roblox"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Guias e passo a passo de Jujutsu School Anomaly",
+    "overviewDescription": "Guias passo a passo de Jujutsu School Anomaly cobrindo o ciclo completo, todos os finais, o final verdadeiro e os procedimentos de inspeção para novos jogadores."
+  },
+  "mechanics": {
+    "overviewTitle": "Mecânicas de Jujutsu School Anomaly",
+    "overviewDescription": "Entenda as regras de detecção de anomalias de Jujutsu School Anomaly: identificar anomalias, conferir identidades, o comportamento dos turnos e como impedir que as anomalias reiniciem sua partida."
+  },
+  "progression": {
+    "overviewTitle": "Progressão de Jujutsu School Anomaly",
+    "overviewDescription": "Acompanhe sua progressão em Jujutsu School Anomaly do Turno 1 ao chefe final, com marcos turno a turno e o confronto final."
+  },
+  "characters": {
+    "overviewTitle": "Personagens de Jujutsu School Anomaly",
+    "overviewDescription": "Conheça o elenco de Jujutsu School Anomaly, incluindo alunos, professores, Panda e Yuji, e veja como cada um se encaixa no ciclo do turno da noite."
+  },
+  "tips": {
+    "overviewTitle": "Dicas e truques de Jujutsu School Anomaly",
+    "overviewDescription": "Dicas práticas de Jujutsu School Anomaly, um guia para iniciantes, conselhos de sobrevivência, listas de anomalias e as formas mais rápidas de falhar ou se recuperar."
+  },
+  "game": {
+    "overviewTitle": "Informações do jogo Jujutsu School Anomaly",
+    "overviewDescription": "Detalhes do jogo Jujutsu School Anomaly, incluindo o lançamento no Roblox, a jogabilidade de terror, atualizações e eventos por tempo limitado."
+  },
+  "shared": {
+    "wikiNavigation": "Navegação da wiki",
+    "activeCodes": "Códigos ativos",
+    "updated": "Atualizado",
+    "viewAllCodes": "Ver todos os códigos",
+    "playOnRoblox": "Jogar no Roblox",
+    "inThisSection": "Nesta seção",
+    "tableOfContents": "Índice",
+    "nextSteps": "Próximos passos",
+    "needHelp": "Precisa de ajuda?",
+    "relatedReading": "Leitura relacionada",
+    "relatedGuides": "Guias relacionados",
+    "readMore": "Ler mais",
+    "officialMedia": "Mídia oficial",
+    "home": "Início",
+    "noGuidesAvailable": "Ainda não há guias disponíveis. Volte em breve!"
+  },
+  "footer": {
+    "aboutTitle": "Jujutsu School Anomaly Wiki",
+    "about": "A Jujutsu School Anomaly Wiki é um hub de guias independente criado por fãs, cobrindo os procedimentos do turno da noite, a verificação de visitantes, anomalias, finais e conhecimentos essenciais do jogo para jogadores novos e veteranos.",
+    "quickLinks": "Links rápidos",
+    "guides": "Guias",
+    "legal": "Jurídico",
+    "copyright": "2026 Jujutsu School Anomaly Wiki. Não afiliada à Centurion Kitchen nem à Roblox.",
+    "description": "Jogo de terror gratuito da Roblox. Inspecione visitantes, confira identidades, controle a barreira amaldiçoada e sobreviva ao turno da noite.",
+    "playGame": "Jogar no Roblox",
+    "officialDiscord": "Comunidade Roblox",
+    "officialYoutube": "Trailer de jogabilidade",
+    "vvBuilder": "Checklist de anomalias",
+    "beginnerGuide": "Guia para iniciantes",
+    "raceGuides": "Personagens",
+    "bossGuides": "Progressão",
+    "buildGuide": "Mecânicas",
+    "privacyPolicy": "Política de Privacidade",
+    "termsOfService": "Termos de Serviço"
+  }
+}
